@@ -53,5 +53,24 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Primark",
+        "founded": 1969,
+        "headquarters": "Dublin, Irlend",
+        "employees":80000,
+        "products":[
+            "Casual Wear",
+            "Footwear",
+            "Fashion Apparel"
+        ]
+    },
+    {
+        "name":"Tkmaxx",
+        "founded":1994,
+        "headquarters":"Hartfordshier, UK",
+        "employees":25000,
+        "products":["Casual Wear"
+    ]
     }
 ]
