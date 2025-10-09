@@ -70,7 +70,11 @@
         "founded":1994,
         "headquarters":"Hartfordshier, UK",
         "employees":25000,
-        "products":["Casual Wear"
-    ]
+        "products":[
+            "Casual Wear",
+            "Accessories",
+            "Footwear",
+            "Fashion Apparel"
+        ]
     }
 ]
