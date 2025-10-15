@@ -1,0 +1,20 @@
+[
+    {
+        "Class": "STD",
+        "Ticket Type": "One Way",
+        "Date of Travel": "08-JUY-24",
+        "From": "Portsmouth",
+        "to": "Havant",
+        "Price": 11,
+        "Num": 7397132573173230500
+    },
+    {
+       "Class": "FST",
+        "Ticket Type": "Return",
+        "Date of Travel": "23-June-25",
+        "From": "London",
+        "to": "Southhampton",
+        "Price": 32,
+        "Num": 9697232183143230501 
+    }
+]
