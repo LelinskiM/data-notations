@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<email>
+<Email_Document>
+    <Email>
+        <Recipiant>Marcel Lelinski</Recipiant>
+        <Sender>Data Notations</Sender>
+        <Subject>Finished json file tasks</Subject>
+        <Body>Hi Marcel....</Body>
+    </Email>
+    
+    <Email>
+        <Recipiant>nick</Recipiant>
+        <Sender>cage</Sender>
+        <Subject>next movie</Subject>
+        <Body>next movie plots or ideas</Body>
+    </Email>
+</Email_Document>
     
